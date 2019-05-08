@@ -1,0 +1,42 @@
+#Base do estudo: 
+
+
+https://stackoverflow.com/questions/16916470/convert-row-value-in-to-column-in-sql-server-pivot
+
+
+## Métodos
+
+
+--- pivot
+
+https://stackoverflow.com/questions/16916470/convert-row-value-in-to-column-in-sql-server-pivot
+
+
+--- STUFF
+https://www.w3schools.com/sql/func_sqlserver_stuff.asp
+
+Exclua 3 caracteres de uma string, começando na posição 1 e, em seguida, insira "HTML" na posição 1:
+
+*** Definição e Uso:
+A função STUFF () exclui uma parte de uma string e insere outra parte na string, começando em uma posição especificada.
+
+--- QUOTENAME
+https://www.w3schools.com/sql/func_sqlserver_quotename.asp
+
+Retorna uma string Unicode com delimitadores de colchetes (padrão):
+
+*** Definição e Uso:
+A função QUOTENAME () retorna uma string Unicode com delimitadores adicionados para tornar a string um identificador delimitado do SQL Server válido.
+
+
+
+
+
+
+
+
+
+
+
+
+
